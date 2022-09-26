@@ -4,11 +4,11 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "About Me"
+  - title: "Education"
     url: /me/
   
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
   - title: "Research Projects"
     url: /research/
